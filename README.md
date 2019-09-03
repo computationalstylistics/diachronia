@@ -8,6 +8,9 @@ Wersja elektroniczna znajduje się [tutaj](https://github.com/computationalstyli
 
 Ilustracje do książki do znalezienia [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje), a dane użyte w obliczeniach umieściliśmy [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/dane).
 
+
+
+
 ## Ze Wstępu
 
 Niniejsza praca stawia sobie za cel przybliżenie czytelnikowi wybranych metod korpusowych i kwantytatywnych przyjętych w językoznawstwie historycznym i omówienie możliwych zastosowań tych metod do opisu historii języka polskiego. Książka stanowi pokłosie prac prowadzonych w ramach projektu _Przebiegi zmian gramatycznych i leksykalnych w historii języka polskiego – metody korpusowe i kwantytatywne w językoznawstwie diachronicznym_, finansowanego przez Narodowe Centrum Nauki (nr UMO-2013/11/B/HS2/02795). 
@@ -22,51 +25,30 @@ Kolejny rozdział jest poświęcony metodom odnajdywania momentu największej dy
 
 Ostatni rozdział poświęcony jest zagadnieniu zmian w produktywności pewnej formy gramatycznej. Imiesłów uprzedni – bo o nim mowa – jest formą fleksyjną, której frekwencja ulegała bardzo dużym wahaniom. Zrazu bardzo rzadka, forma ta zyskała niezwykłą popularność w XVII w., by później zanotować znaczący spadek liczby wystąpień. Ów spadek osiągnął najniższy punkt na przełomie wieków XVIII i XIX, następnie imiesłowy uprzednie zaczęły (częściowo) odzyskiwać utraconą pozycję. Rodzi się więc pytanie, czym były spowodowane zarówno wzrost, jak i spadek. Nasuwają się tu dwa przypuszczenia: albo mamy do czynienia z czymś, co można by nazwać językową modą, albo też ze zmianami w produktywności. W pierwszym wypadku oznaczałoby to, że użytkownicy języka wciąż posługiwali się podobnym zasobem słów, lecz używali ich z różną częstotliwością; w drugim – że zasób wyrazów zwiększył się znacząco, przypuszczalnie dlatego, że pewnemu rozluźnieniu uległy ograniczenia (zapewne przede wszystkim semantyczne) nakładane na czasowniki, które przyjmują tę formę. Zagadnienie to badamy za pomocą narzędzi wypracowanych w synchronicznym językoznawstwie korpusowym, porównując produktywność imiesłowów uprzednich w poszczególnych podkorpusach. Przy tym miary produktywności oparte są jedynie na kryteriach ilościowych.
 
-## Ilustracje
+
+
+
+## Ilustracje (wybór)
+
+Komplet ilustracji (oryginalne pliki) znajduje się [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje); poniżej zamieszczamy kilka wybranych przykładów.
 
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-1-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-2-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-3-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-4-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_2-5-1.png)
-
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-1-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-2-1.png)
 
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-3-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-4-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-1-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-5-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-6-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-6-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-7-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-7-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-6-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-8-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-11-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-9-1.png)
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-14-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-10-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-11-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-12-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-13-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-14-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-15-1.png)
-
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_3-16-1.png)
-
-
-
-
+![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_5-2-1.png)
 
