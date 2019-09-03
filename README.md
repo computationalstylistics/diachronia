@@ -44,8 +44,6 @@ Komplet ilustracji (oryginalne pliki) znajduje się [tutaj](https://github.com/
 
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-7-1.png)
 
-![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-6-1.png)
-
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-11-1.png)
 
 ![](https://github.com/computationalstylistics/diachronia/blob/master/ilustracje/fig_4-14-1.png)
