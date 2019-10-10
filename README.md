@@ -4,7 +4,7 @@ Niniejsze repozytorium zawiera dane, ilustracje oraz dodatkowe materiały do ksi
 
 > **Górski R.L.**, **Król, M.** & **Eder, M.** (2019). _Zmiana w języku. Studia kwantytatywno-korpusowe_. Kraków: IJP PAN.
 
-Wersja pdf jest dostępna [tutaj](https://github.com/computationalstylistics/diachronia/blob/master/Zmiana_w_jezyku_2019-10-03.pdf)
+Wersja pdf do ściągnięcia  [stąd](https://github.com/computationalstylistics/diachronia/raw/master/Zmiana_w_jezyku_2019-10-03.pdf).
 Wersja elektroniczna znajduje się [tutaj](https://github.com/computationalstylistics/diachronia/blob/master/Zmiana_w_jezyku_2019-10-03.epub) (epub) oraz [tutaj](https://github.com/computationalstylistics/diachronia/blob/master/Zmiana_w_jezyku_2019-10-03.mobi) (kindle). Ilustracje do książki do znalezienia [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/ilustracje), a dane użyte w obliczeniach umieściliśmy [tutaj](https://github.com/computationalstylistics/diachronia/tree/master/dane).
 
 
